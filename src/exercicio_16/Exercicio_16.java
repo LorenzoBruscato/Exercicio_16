@@ -2,15 +2,9 @@ package exercicio_16;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Lorenzo
- */
+
 public class Exercicio_16 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         int controle;
         int r, x, y;
